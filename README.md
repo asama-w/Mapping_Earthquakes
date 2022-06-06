@@ -15,7 +15,7 @@ This project uses Leaflet.js, a library in JavaScript, to create an interactive 
 	+ [style.css](https://github.com/asama-w/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css)
 
 ## Interactive Map Overview
-+ The popup marker shows each earthquake's magnitude and location appears when clicked on its circle.
++ The popup marker showing each earthquake's magnitude and location appears when clicked on its circle.
 + The diamater and color of the earthquake's circle represents the degree of its magnitude, from small to large, and green to red (low to high magnitude).
 + The interactive map has three different layers which can be chosen on the top-right corner of the map:
   + **Earthquakes:** shows all earthquakes that happened around the world for the past 7 days.
